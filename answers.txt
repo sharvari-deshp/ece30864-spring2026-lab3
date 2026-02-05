@@ -1,1 +1,1 @@
-
+Some positives of Agile developement would be its huge focus on customer value, as Agile attends to their preferences a lot. Also, the fact that there can be a lot of stakeholder collaboration with this software. Some cons include that it is good for medium-sized teams, but more difficult for bigger teams to implement and use. 
